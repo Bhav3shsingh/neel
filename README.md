@@ -7,7 +7,7 @@
 - [Contributing](#contributing)
 
 ### What?
-Neel is a simple browser embedded Code editor for JavaScript. It has built-in voice commands for writing programs and executing them, as well as saving them to your desktop. 
+Neel is a simple beginner-friendly browser embedded code editor for JavaScript. It has built-in voice commands for writing programs and executing them, as well as saving them to your desktop. 
 
 ### Contributing
 
