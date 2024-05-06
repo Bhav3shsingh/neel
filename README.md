@@ -14,7 +14,7 @@ Neel is a simple browser embedded Code editor for JavaScript. It has built-in vo
 1) Fork the project
 2) Add your files
 3) Make sure to explain the changes you are making
-4) Follow the rules given [here]()
+4) Follow the rules given [here](https://github.com/Bhav3shsingh/neel/blob/main/CONTRIBUTING.md)
 5) Mission Accomplished! :tada:
 
 
