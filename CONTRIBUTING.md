@@ -8,3 +8,5 @@ Big projects will normally have a big bag of DOs and DONTs but this project is r
 - Fork with purpose. Explain any changes that you have made.
 - Keep it free. **Do not** integrate any **API/resource** which may require a **private key/access** code or is **paid**.
 - Ensure that you have the right to use the particular resource which you may add to this project.
+
+**HAPPY CONTRIBUTING** :smile:
