@@ -2,6 +2,8 @@
 
 ## HandsFree CodeWriter
 
+[Check out the Editor!](https://bhaveshsingh.itch.io/neel)
+
 ### Content
 - [What](#what)
 - [Contributing](#contributing)
