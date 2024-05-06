@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html> <body>
+	<style>
+		textarea{
+			width:80%;
+			height:550px;
+			font-size:36px;
+			border:black solid 2px;
+		}
+		
+		body{
+			background-color:#152238;
+		}
+		
+		a{
+			color:white;			
+		}		
+
+		button{
+			width:100px;
+			height:45px;
+			background-color:#7ffa32;
+			color:black;
+			font-size:14px;
+			border-radius:20px;
+			border:white soft 4px;
+		}
+		
+		center{
+			color:white;
+			font-size:88px;
+			font-family:cursive;
+		}
+		
+		#foot{
+			text-align:center;
+			color:gray;
+			font-family:serif;
+			height:850px;
+		}
+		
+		html,body{
+			user-select:none;
+		}
+		
+		#temp_ta{
+			color:white;
+		}
+		
+		span{
+			position:absolute;
+			left:28%;
+			top:48%;
+			font-size:32px;
+			font-family:sans-serif;
+			box-shadow: 2px 2px 20px 2px white;
+			width:550px;
+			background-color:#0F52BA;
+		}
+		
+		img{
+			width:100%;
+			height:100%;
+		}
+
+		
+		#ta{
+			caret-color:#58cced;
+		}
+		</style>
+
+	<center style="font-size:28px;font-family:sans-serif;"><p id="interimp">
+	</p></center>
+	
+	<button id="voice_but" style="background-color:#516ae8;color:white;">Handless Mode</button>
+
+	<textarea id="ta">
+	alert("Hello, World!");
+	</textarea><br><br>
+
+	<button id="run_but"><strong>RUN</strong></button>
+	<button style="background-color:#fa3f32;color:white;" id="save_but">
+		<strong>Save</strong>
+	</button><br><br>
+	<br>
+	<div id="foot">Contribute to the project <a href="https://github.com/Bhav3shsingh/neel">@Github</a></div>
+
+
+	<script src="speech_recogniser.js"></script>
+	<script src="script.js"></script>
+
+
+
+
+</html>
