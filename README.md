@@ -19,7 +19,7 @@
 ## 🚀 Quick Start
 
 ### 1. Launch the Editor
-Open the [Neel Editor](https://bhav3shsingh.github.io/neel/) in any modern browser (Chrome or Edge recommended for best voice support).
+Open the [Neel Editor](https://bhaveshsingh.itch.io/neel) in any modern browser (Chrome or Edge recommended for best voice support).
 
 ### 2. Enable Microphone
 Grant permission to use your microphone when prompted.
