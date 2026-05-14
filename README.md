@@ -59,4 +59,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Developed by [Bhav3shsingh](https://github.com/Bhav3shsingh)** *Lead-level engineering for the hands-free era.*
+**Developed by [Bhav3shsingh](https://github.com/Bhav3shsingh)**
